@@ -8,46 +8,26 @@ We used Python + GeoPandas with geospatial datasets to detect and visualize frau
 
 ✨ Features
 
- - 🐍 Python + GeoPandas
+ -  Python + GeoPandas
 
- - 🌍 Analyze geospatial data of transactions
+ -  Analyze geospatial data of transactions
 
- - 📊 Visualize fraud distribution by state/region
+ -  Visualize fraud distribution by state/region
 
- - 📂 Interactive dashboard for quick insights
+ -  Interactive dashboard for quick insights
 
 📁 Project Files
 File	Description
- - Main_code.ipynb	📝 Exploratory notebook and maps
- - transactions_dashboard.py	🖥️ Script to generate visuals and dashboards
- - df_clean.csv	📄 Cleaned dataset used in the project
+ - Main_code.ipynb	Exploratory notebook and maps
+ - transactions_dashboard.py	Script to generate visuals and dashboards
+ - df_clean.csv	Cleaned dataset used in the project
 ⚙️ Installation
-
-Clone the Repository:
-
- - git clone https://github.com/Turkiakbar/Fraud-detection-by-geopandas.git
- - cd Fraud-detection-by-geopandas
-
-
-Set Up Environment (Conda recommended):
-
- - conda create -n fraudgeo python=3.11 -y
- - conda activate fraudgeo
- - conda install -c conda-forge geopandas -y
-
-
-Or Using Pip:
-
- - python -m venv .venv
- - .\.venv\Scripts\activate   # Windows
- - pip install geopandas pandas matplotlib
 
 ▶️ Usage
 
  - Run Notebook (EDA & Maps):
 
  - jupyter notebook Main_code.ipynb
-
 
 Run Script:
 

@@ -63,6 +63,9 @@ python transactions_dashboard.py
 
  - Matplotlib
 
+Slides by canva :
+- https://www.canva.com/design/DAG0LY8ItLY/X7eqLAsQKueaK024K2-T0g/view?utm_content=DAG0LY8ItLY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h48d00dfc46
+
 💡 Notes
 
  - Make sure df_clean.csv includes location data.
